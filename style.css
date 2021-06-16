@@ -5,3 +5,12 @@
     margin-top: 5rem;
     margin-left: 5rem;
 }
+.bg-color{
+    background-color: brown;
+    height: 50vh;
+}
+.bg-color p{
+    color: cornsilk;
+    text-align: center;
+    padding-top: 15rem;
+}
