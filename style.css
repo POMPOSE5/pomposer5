@@ -1,3 +1,7 @@
 .flex{
     display: flex;
 }
+.flex h3{
+    margin-top: 5rem;
+    margin-left: 5rem;
+}
